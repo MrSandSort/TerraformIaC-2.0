@@ -1,5 +1,9 @@
 # Local .terraform directories
 .terraform/
+<<<<<<< HEAD
+=======
+.terraform.lock.hcl
+>>>>>>> origin/master
 
 # .tfstate files
 *.tfstate
